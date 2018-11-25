@@ -1827,3 +1827,200 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-raoEDhMxlf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-raoEDhMxlf .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-raoEDhMxlf .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-raoEDhMxlf .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-raoEEFruQW {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-raoEEFruQW h1 {
+  color: #616161;
+}
+.cid-raoEEFruQW h2,
+.cid-raoEEFruQW h3,
+.cid-raoEEFruQW p {
+  color: #767676;
+}
+.cid-raoEEFruQW .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-raoEGj8qbq {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-raoEGj8qbq .icons-media-container {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-raoEGj8qbq .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-raoEGj8qbq .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-raoEGj8qbq .mbr-text {
+  color: #ffffff;
+}
+.cid-raoEGj8qbq .card {
+  padding-bottom: 1.5rem;
+}
+.cid-raoEFMaYGe {
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-raoEFMaYGe .mbr-icofont {
+  font-size: 48px;
+  color: #353535;
+}
+.cid-raoEFMaYGe .show-modal span {
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+}
+.cid-raoEFMaYGe .show-modal span:before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.cid-raoEFMaYGe .mbr-figure {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  margin: auto;
+  transition: transform 1s;
+  cursor: pointer;
+}
+.cid-raoEFMaYGe .mbr-figure a {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 100px;
+}
+.cid-raoEFMaYGe .mbr-figure a:before {
+  width: 100px;
+  height: 100px;
+}
+.cid-raoEFMaYGe .mbr-figure:hover {
+  transform: scale(1.15);
+  transition: transform 1s;
+  -webkit-transform: scale(1.15);
+}
+.cid-raoEFMaYGe .mbri-play:before {
+  left: 55% !important;
+}
+.cid-raoEFMaYGe .form-inline {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-raoEFMaYGe .form-inline .form-group {
+  padding: 0.5rem;
+}
+.cid-raoEFMaYGe .form-inline input {
+  text-align: center;
+}
+.cid-raoEFMaYGe h3 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-raoEFMaYGe .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  display: none;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-raoEFMaYGe .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: -o-center;
+}
+.cid-raoEFMaYGe .modalWindow .modalWindow-container .modalWindow-video-container {
+  display: inline-block;
+  width: 100%;
+}
+.cid-raoEFMaYGe .modalWindow .modalWindow-container .modalWindow-video-container .modalWindow-video {
+  margin: auto;
+}
+.cid-raoEFMaYGe a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-raoEFMaYGe a.close:hover {
+  color: #ffffff;
+}
+@media (max-width: 500px) {
+  .cid-raoEFMaYGe .modalWindow-video {
+    width: 80%;
+    height: 200px;
+    position: relative;
+  }
+}
+@media (min-width: 500px) and (max-width: 768px) {
+  .cid-raoEFMaYGe .modalWindow-video {
+    width: 90%;
+    height: 340px;
+    position: relative;
+  }
+}
+@media (min-width: 768px) and (max-width: 850px) {
+  .cid-raoEFMaYGe .modalWindow-video {
+    width: 700px;
+    height: 395px;
+    position: relative;
+  }
+}
+@media (min-width: 850px) and (max-width: 1300px) {
+  .cid-raoEFMaYGe .modalWindow-video {
+    width: 800px;
+    height: 452px;
+    position: relative;
+  }
+}
+@media (min-width: 1300px) {
+  .cid-raoEFMaYGe .modalWindow-video {
+    width: 1200px;
+    height: 675px;
+    position: relative;
+  }
+}
